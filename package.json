@@ -1,0 +1,23 @@
+{
+  "name": "yiishiuan.github.io",
+  "version": "1.0.0",
+  "description": "threejs learning",
+  "main": "index.js",
+  "dependencies": {
+    "three": "^0.128.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YiiShiuan/YiiShiuan.github.io.git"
+  },
+  "author": "YiiShiuan <hyswsu179@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YiiShiuan/YiiShiuan.github.io/issues"
+  },
+  "homepage": "https://github.com/YiiShiuan/YiiShiuan.github.io#readme"
+}
